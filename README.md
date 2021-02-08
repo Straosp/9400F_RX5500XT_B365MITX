@@ -10,3 +10,6 @@
       
 使用openCore Configuration 程序进行编辑，目前暂无明显问题，Wi-Fi，蓝牙一切正常，隔空投送正常，如有问题，可提issues
 ---
+
+
+####下载Release里面的EFI.zip也可以
